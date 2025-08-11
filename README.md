@@ -38,10 +38,10 @@ It leverages blockchain technology to make elections more secure and trustworthy
 ![Home Page](image/1.png)
 
 ### 🗳️ Voting Dashboard
-![Voting Dashboard](https://github.com/mehul-tamboli/TrustChain/blob/main/screenshots/dashboard.png?raw=true)
+![Voting Dashboard](image/6.png)
 
 ### 📊 Results Page
-![Results Page](https://github.com/mehul-tamboli/TrustChain/blob/main/screenshots/results.png?raw=true)
+![Results Page](image/7.png)
 
 ---
 
