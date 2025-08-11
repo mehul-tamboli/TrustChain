@@ -52,10 +52,13 @@ It leverages blockchain technology to make elections more secure and trustworthy
 git clone https://github.com/mehul-tamboli/TrustChain.git
 cd TrustChain
 (https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
+```
+```
 ### 2️⃣ Install Dependencies
 npm install
-
+```
+```
 ### 3️⃣ Run the Project
 npm start
 Open your browser and visit http://localhost:3000
+```
